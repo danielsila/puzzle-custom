@@ -1,3 +1,4 @@
 spuštění: 
 
-```mkdir build && cd build && cmake .. && cmake --build . && ./puzzle```
+```mkdir build && cd build```
+```cmake .. && cmake --build . && ./puzzle```
